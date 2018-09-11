@@ -2,6 +2,12 @@
 
 A lightweight js polyfill library.
 
+## Install
+
+```
+npm install js-polyfill --save
+```
+
 ## Usage
 
 ```javascript
