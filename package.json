@@ -1,15 +1,21 @@
 {
   "name": "js-polyfill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lightweight js polyfill library.",
-  "main": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "zhihuahuang",
   "keys": [
     "polyfill",
-    "shim"
+    "shim",
+    "ES5",
+    "ECMAScript 5"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhihuahuang/js-polyfill.git"
+  },
   "license": "MIT"
 }
