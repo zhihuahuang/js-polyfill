@@ -1,0 +1,15 @@
+{
+  "name": "js-polyfill",
+  "version": "0.1.0",
+  "description": "A lightweight js polyfill library.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhihuahuang",
+  "keys": [
+    "polyfill",
+    "shim"
+  ],
+  "license": "MIT"
+}
