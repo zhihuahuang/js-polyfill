@@ -11,9 +11,11 @@ npm install js-polyfill --save
 ## Usage
 
 ```javascript
-require('Array.isArray');
+require('Array.prototype.forEach');
 
-Array.isArray([1, 2, 3]); // true
+[1, 2, 3].forEach(function (value) {
+    // do something
+});
 ```
 
 ## Array
@@ -52,3 +54,9 @@ Array.isArray([1, 2, 3]); // true
 - Object.is
 - Object.keys
 - Object.values
+
+## String
+
+- String.prototype.trim
+- String.prototype.trimEnd
+- String.prototype.trimStart
